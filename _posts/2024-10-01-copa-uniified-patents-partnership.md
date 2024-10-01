@@ -3,7 +3,8 @@ layout: post
 title: COPA and Unified Patents sign partnership to protect the crypto community from patent trolls 
 comments: true
 ---
-
+- _Launch of Blockchain Zone to challenge patents owned by non-practicing entities (NPEs) that could impact the open source ecosystem_
+- _NPEs still account for 58% of all [US] patent litigation; partnership aims to deter NPE activity in crypto_
 
 October 01, 2024
 Today the <a href="https://www.opencrypto.org/" target="_blank">Cryptocurrency Open Patent Alliance (COPA)</a> , a non-profit community formed to encourage the adoption and advancement of cryptocurrency technologies, and Unified Patents, a member-based organization whose goal is deterring the number of bad patent assertions in specific technology areas, launched the <a href="https://www.unifiedpatents.com/npe#blockchain" target="_blank">Blockchain Zone</a>  to target NPE activity, or patent trolls, which threaten blockchain and its related technologies.

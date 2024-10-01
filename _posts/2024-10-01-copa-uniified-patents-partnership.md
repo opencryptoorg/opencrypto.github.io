@@ -12,11 +12,11 @@ Today the <a href="https://www.opencrypto.org/" target="_blank">Cryptocurrency O
 
 The success of cryptocurrency depends on developers being able to grow, innovate, and build new products free from the threat of litigation and patent trolls. This partnership will ensure that blockchain technologies are protected from unwarranted and costly assertions by entities trying to leverage the high cost of patent litigation to drive settlements. 
 
-Paul Grewal, Chief Legal Officer at Coinbase, a member of COPA, said, “Patent trolls are barriers in the path of innovation; they hinder the progress of technology and stifle the spirit of creativity, particularly in the fast-evolving world of cryptocurrency. They must be stopped so that the community can continue to do the important business of building the crypto-economy.” 
+Paul Grewal, Chief Legal Officer at Coinbase, a member of COPA, said, _“Patent trolls are barriers in the path of innovation; they hinder the progress of technology and stifle the spirit of creativity, particularly in the fast-evolving world of cryptocurrency. They must be stopped so that the community can continue to do the important business of building the crypto-economy.”_ 
 
 As part of this partnership, COPA members will receive pass-through protection at no cost. 
 
-Steve Lee, Lead at Spiral, a subsidiary of Block and member of COPA, said, “COPA has fought long and hard to reduce barriers to crypto innovation, including its efforts to debunk false IP claims related to Satoshi Nakomoto's identity, which have plagued the bitcoin community.  Now, we take COPA’s work a step further to protect the crypto community from patent trolls.”
+Steve Lee, Lead at Spiral, a subsidiary of Block and member of COPA, said, _“COPA has fought long and hard to reduce barriers to crypto innovation, including its efforts to debunk false IP claims related to Satoshi Nakomoto's identity, which have plagued the bitcoin community.  Now, we take COPA’s work a step further to protect the crypto community from patent trolls.”_
 
 To date, Unified Patents’ <a href="https://www.unifiedpatents.com/npe#electronic" target="_blank">Transactions Zone</a>  has successfully challenged hundreds of patents that threatened electronic transactions, online bill payments, authentication, and other technologies, ensuring that the Blockchain remains open and free for all, protected from unwarranted assertions. The newly-formed  Blockchain Zone will do the same.
 

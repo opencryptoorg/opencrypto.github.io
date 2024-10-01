@@ -7,6 +7,7 @@ comments: true
 - _NPEs still account for 58% of all [US] patent litigation; partnership aims to deter NPE activity in crypto_
 
 October 01, 2024
+
 Today the <a href="https://www.opencrypto.org/" target="_blank">Cryptocurrency Open Patent Alliance (COPA)</a> , a non-profit community formed to encourage the adoption and advancement of cryptocurrency technologies, and Unified Patents, a member-based organization whose goal is deterring the number of bad patent assertions in specific technology areas, launched the <a href="https://www.unifiedpatents.com/npe#blockchain" target="_blank">Blockchain Zone</a>  to target NPE activity, or patent trolls, which threaten blockchain and its related technologies.
 
 The success of cryptocurrency depends on developers being able to grow, innovate, and build new products free from the threat of litigation and patent trolls. This partnership will ensure that blockchain technologies are protected from unwarranted and costly assertions by entities trying to leverage the high cost of patent litigation to drive settlements. 
